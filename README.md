@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on building data management tools for computational biology.
 - 👩🏻‍💻🧪 My background is computational biology, genome engineering and cell biology: https://scholar.google.com/citations?user=LzjAfAUAAAAJ&hl=en
-- 🌱 I’m currently learning data management, communication and entrepreneurship.
 - 📫 How to reach me: https://www.linkedin.com/in/sunnyosun/
 
 <!--
