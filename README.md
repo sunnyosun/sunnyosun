@@ -1,6 +1,6 @@
 ### Hi there, I'm Sunny! 👋
 
-- 🔭 I’m currently working on building data & analysis management tools for computational biology.
+- 🔭 I’m currently working on building open data APIs for biology.
 - 👩🏻‍💻🧪 My background is computational biology, genome engineering and cell biology: https://scholar.google.com/citations?user=LzjAfAUAAAAJ&hl=en
 - 📫 How to reach me: https://www.linkedin.com/in/sunnyosun/
 
